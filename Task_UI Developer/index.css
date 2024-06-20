@@ -519,6 +519,14 @@ header p {
     .cardds{
         margin: 0px 25px;
     }
+      .cardds .odd:nth-child(odd){
+    background-color:transparent ;
+    /* padding:4px; */
+  }
+  .cardds .even:nth-child(even){
+    background-color:transparent ;
+    /* padding:4px; */
+  } 
 }
 
 
@@ -626,6 +634,14 @@ header p {
     .cardds{
         margin: 0px 13px;
     }
+      .cardds .odd:nth-child(odd){
+    background-color:transparent ;
+    /* padding:4px; */
+  }
+  .cardds .even:nth-child(even){
+    background-color:transparent ;
+    /* padding:4px; */
+  } 
 }
 @media (max-width: 376px) {
     header{
@@ -726,6 +742,14 @@ header p {
     .cardds{
         margin: 0px 8px;
     }
+      .cardds .odd:nth-child(odd){
+    background-color:transparent ;
+    /* padding:4px; */
+  }
+  .cardds .even:nth-child(even){
+    background-color:transparent ;
+    /* padding:4px; */
+  } 
 }
 @media (max-width: 320px) {
   
@@ -830,6 +854,15 @@ header p {
     .cardds{
         margin: 0px 6px;
     }
+     .cardds .odd:nth-child(odd){
+    background-color:transparent ;
+    /* padding:4px; */
+  }
+  .cardds .even:nth-child(even){
+    background-color:transparent ;
+    /* padding:4px; */
+  } 
+
 }
 
 
